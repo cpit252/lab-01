@@ -25,7 +25,7 @@ public class Lab1Test {
     @Test
     public void checkQ1shouldCountQuantity()
     {
-        assertEquals(p3.getTotalQuantity(), 4);
+        assertEquals(4, p3.getTotalQuantity());
     }
 
     // Question 2: Unit testing (no testing - will be inspected manually)
