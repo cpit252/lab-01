@@ -1,5 +1,6 @@
 *.class
 bin/
+target/
 .idea/
 .mtj.tmp/
 *.class
